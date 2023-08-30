@@ -7,7 +7,7 @@ import "./header_mobile.scss";
 import React, { useState } from "react";
 
 
-function header() {
+function Header() {
     const [isOpen, setIsOpen] = useState(false);
 
     // fonction qui permet de changer le statut du top
@@ -71,4 +71,4 @@ function header() {
   );
 }
 
-export default header;
+export default Header;

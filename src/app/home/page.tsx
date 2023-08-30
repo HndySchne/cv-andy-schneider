@@ -9,10 +9,7 @@ function Home() {
       <div className="abstract">
         <div className="abstract__text">
           <p>
-            Développeur ayant 6 années d'expériences dans le domaine du
-            bancaire-assurances, je me suis récemment formé aux technologies
-            web. Dynamique, sérieux et curieux, je suis à la recherche d'une
-            opportunité professionnelle différente
+            Développeur ayant 6 années d&#39;expériences dans le domaine du bancaire-assurances, je me suis récemment formé aux technologies web. Dynamique, sérieux et curieux, je suis à la recherche d&#39;une opportunité professionnelle différente
           </p>
           <a href='/documents/cv-andy-schneider.pdf' download='/documents/cv-andy-schneider.pdf'>
             <div className="abstract__resume">

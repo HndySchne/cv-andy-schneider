@@ -15,7 +15,7 @@ function Experience() {
         <FontAwesomeIcon icon={faUserTie} /> EXPÉRIENCES
       </h2>
       <section className="experience-body">
-        <h3>Data analyste = Amaris | Octobre 2021 - Août 2022</h3>
+        <h3>Data analyste = Amaris - Octobre 2021 - Août 2022</h3>
         <div className="experience-body__description">
           <p>
             Data analyste pour les Assurances du crédit mutuel, Strasbourg
@@ -25,8 +25,7 @@ function Experience() {
           </p>
         </div>
         <h3>
-          Ingénieur d'études et de Développement MAINFRAME/.NET = Sopra Steria |
-          Avril 2017 - Octobre 2021
+          Ingénieur d&#39;études et de Développement MAINFRAME/.NET = Sopra Steria - Avril 2017 - Octobre 2021
         </h3>
         <div className="experience-body__description">
           <p>
@@ -44,17 +43,15 @@ function Experience() {
             </li>
             <li>Rédaction des avant projets sommaires</li>
             <li>
-              Gestion de projets en V et en agilité : utilisation de l'outil
-              KABAN sur Teams
+              Gestion de projets en V et en agilité : utilisation de l&#39;outil KABAN sur Teams
             </li>
             <li>Réalisation et qualification</li>
           </ul>
           <p>
-            Projets majeurs : eDéclaration (600 jours homme), TSEMS (300 jours
-            homme), Changement d'offre (300 jours homme)
+            Projets majeurs : eDéclaration (600 jours homme), TSEMS (300 jours homme), Changement d&#39;offre (300 jours homme)
           </p>
         </div>
-        <h3>Assistant ingénieur = INRA | 2016 </h3>
+        <h3>Assistant ingénieur = INRA - 2016 </h3>
         <div className="experience-body__description">
           <p>
             Extraction des lipides des plantes infectées et analyse par
