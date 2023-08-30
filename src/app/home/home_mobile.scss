@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+    .home-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .picture-container {
+            padding-top: 30px;
+
+            img {
+                width: 150px;
+                height: 150px;
+            }
+        }
+
+    }
+
+    .abstract__text {
+        width: 100%;
+        text-align: justify;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+
+
+}

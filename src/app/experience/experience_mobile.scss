@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+
+    .experience-body {
+        padding: 15px;
+        h3 {
+            font-size: 17px;
+        }
+
+        p{
+            font-size: 16px;
+            text-align: left;
+        }
+        ul{
+            visibility: hidden;
+            height: 0px;
+        }
+    }
+
+}

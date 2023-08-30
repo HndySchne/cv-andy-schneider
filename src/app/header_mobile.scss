@@ -1,0 +1,33 @@
+@media screen and (max-width: 768px) {
+    .body-header__list {
+        visibility: visible;
+        position: absolute;
+        right: 13%;
+        font-size: 30px;
+    }
+
+    .navigation-link {
+        visibility: hidden;
+    }
+
+    .navigation-link--visible {
+        visibility: visible;
+        z-index: 10000;
+        position: absolute;
+        top: 125px;
+        left: 0%;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+
+    .body-header__navigation {
+        .body-header__btn {
+            font-size: 20px;
+            height: 150px;
+        }
+    }
+}

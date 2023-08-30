@@ -1,0 +1,41 @@
+.home-container{
+    margin: 20px;
+    padding: 40px;
+    background-color: #202226;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .abstract__resume{
+        border: solid #2196F3;
+        background-color: #2196F3;
+        border-radius: 10px;
+        width: 250px;
+        height: 75px;
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+        &:hover{
+            box-shadow: 0px 4px 8px 0px rgba(255, 255, 255, 0.775);
+            background-color: #4ca8f4;
+        }
+    }
+
+    a{
+        text-decoration: none;
+        color: #FFFEFD;
+    }
+
+    .picture-container{
+        img{
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+        }
+    }
+}
+
+.abstract__text{
+    width: 700px;
+}
+
