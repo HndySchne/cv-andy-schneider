@@ -18,7 +18,7 @@ function Experience() {
         <h3>Data analyste = Amaris | Octobre 2021 - Août 2022</h3>
         <div className="experience-body__description">
           <p>
-            Data analyste pour les Assurances du crédit mutuel, Strasbourg{" "}
+            Data analyste pour les Assurances du crédit mutuel, Strasbourg
             <span className="experience-body__logo">
               <FontAwesomeIcon icon={faChartPie} />
             </span>
@@ -31,7 +31,7 @@ function Experience() {
         <div className="experience-body__description">
           <p>
             Management de projets pour Euro-Information Développement des
-            assurances du Crédit Mutuel, Strasbourg{" "}
+            assurances du Crédit Mutuel, Strasbourg
             <span className="experience-body__logo">
               <FontAwesomeIcon icon={faServer} />
             </span>
@@ -59,7 +59,7 @@ function Experience() {
           <p>
             Extraction des lipides des plantes infectées et analyse par
             spectrométrie de masse, traitement des données statistiques avec le
-            logiciel R, Colmar{" "}
+            logiciel R, Colmar
             <span className="experience-body__logo">
               <FontAwesomeIcon icon={faFlask} />
             </span>
