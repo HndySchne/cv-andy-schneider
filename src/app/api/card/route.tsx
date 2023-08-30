@@ -7,7 +7,7 @@ const stacks: Stack = [
     {
         title : 'Frontend',
         logo : faComputer,
-        stackArray : ['JS', 'HTML5', 'SASS'],
+        stackArray : ['JS', 'JSX', 'TSX', 'HTML5', 'CSS3', 'SASS'],
     }, 
     {
         title : 'Backend',
@@ -22,7 +22,7 @@ const stacks: Stack = [
     {
         title : 'Framework',
         logo: faGear, 
-        stackArray:['NodeJS', 'Devbooster', 'Devbooster - SPID']
+        stackArray:['NodeJS', 'Devbooster', 'Devbooster - SPID', 'Next-js']
     },
     {
         title : 'Libraries',
@@ -32,7 +32,7 @@ const stacks: Stack = [
     {
         title : 'Tools',
         logo: faWrench, 
-        stackArray: ['JCL', 'TSO', 'Strobe (compuware)', 'Bmc (mainview)', 'SAS']
+        stackArray: ['JCL', 'TSO', 'Strobe (compuware)', 'Bmc (mainview)', 'SAS', 'GIT']
     },
 ]; 
 
