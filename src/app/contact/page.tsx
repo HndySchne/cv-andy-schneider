@@ -9,7 +9,7 @@ function Contact() {
           <h2> <FontAwesomeIcon icon={faEnvelope} /> CONTACT</h2>
           <div className="contact">
             <h3>Linkedin</h3>
-            <a href="https://www.linkedin.com/in/andy-schneider-b6a260117"> <FontAwesomeIcon icon={faLinkedinIn} /></a>
+            <a href="https://www.linkedin.com/in/andy-schneider-b6a260117"> <FontAwesomeIcon icon={faLinkedinIn} className='icon'/></a>
           </div>
       </div>
     );
